@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python, SQL, PHP, HTML & CSS, Django,Git & Githubetc.**
 
-- 📫 How to reach me **harshpatel151218@gmail.com**
-
 - ⚡ Fun fact **I think I am an Ambivert**
 
 <h3 align="left">Connect with me:</h3>
