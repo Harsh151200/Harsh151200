@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django and Data Science**
 
-- 💬 Ask me about **Python, SQL, PHP, HTML & CSS, Django,Git & Githubetc.**
+- 💬 Ask me about **Python, SQL, PHP, HTML & CSS, Django, Git & Github, etc.**
 
 - ⚡ Fun fact **I think I am an Ambivert**
 
